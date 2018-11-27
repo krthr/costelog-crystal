@@ -1,5 +1,8 @@
 # costelog-crystal
 
+![GitHub top language](https://img.shields.io/github/languages/top/krthr/costelog-crystal.svg)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/krthr/costelog-crystal.svg)
+![GitHub release](https://img.shields.io/github/release/krthr/costelog-crystal.svg)
 [![MIT License](https://img.shields.io/npm/l/costelog.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 
 This is the **Crystal** verion of [gmoralesc's costelog](https://github.com/gmoralesc/costelog)
