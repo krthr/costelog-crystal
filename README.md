@@ -32,6 +32,10 @@ puts Costelog.all "Wilson" # => ["Que vaina e buena", "Ya te dije Wilson", "Va p
 
 The _name_ param is optional. If you dont pass any name, the library will select a random valid name.
 
+## TODO
+
+TODO: Write specs
+
 ## Contributing
 
 1. Fork it (<https://github.com/krthr/costelog-crystal/fork>)

@@ -1,6 +1,9 @@
 name: costelog-crystal
 version: 1.0.0
 
+description: |
+  Get random sentence from Costeño idioms for your log.
+
 authors:
   - krthr <twilson@uninorte.edu.co>
 
