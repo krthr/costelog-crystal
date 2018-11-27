@@ -1,0 +1,9 @@
+name: costelog-crystal
+version: 1.0.0
+
+authors:
+  - krthr <twilson@uninorte.edu.co>
+
+crystal: 0.27.0
+
+license: MIT
