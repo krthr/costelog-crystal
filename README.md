@@ -1,6 +1,6 @@
 # costelog-crystal
 
-### Get random sentence from Costeño idioms for your log.
+[![MIT License](https://img.shields.io/npm/l/costelog.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 
 This is the **Crystal** verion of [gmoralesc's costelog](https://github.com/gmoralesc/costelog)
 
