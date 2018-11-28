@@ -5,7 +5,7 @@
 ![GitHub release](https://img.shields.io/github/release/krthr/costelog-crystal.svg)
 [![MIT License](https://img.shields.io/npm/l/costelog.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 
-This is the **Crystal** verion of [gmoralesc's costelog](https://github.com/gmoralesc/costelog)
+This is the **Crystal** version of [gmoralesc's costelog](https://github.com/gmoralesc/costelog)
 
 ## Installation
 
